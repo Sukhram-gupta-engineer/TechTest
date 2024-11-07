@@ -1,7 +1,7 @@
 <h2>Steps :- Setup this project on local server</h2>
 
 <ul>
-<li>Setup database in env</li>
+<li>Setup database in env(tech_test_db)</li>
 <li>Composer Install</li>
 <li>Run this commond for migration and seeding</li>
 <li>php artisan migrate:fresh --seed</li>
